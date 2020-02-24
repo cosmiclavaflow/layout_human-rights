@@ -1,0 +1,21 @@
+.root-style {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.main-title {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.sub-title {
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.ending-link {
+  color: #008000;
+}
